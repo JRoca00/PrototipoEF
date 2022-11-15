@@ -24,7 +24,7 @@ namespace VistaLogistica
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            ReporteriaMovimientos b = new ReporteriaMovimientos();
+            ReporteFcatura b = new ReporteFcatura();
             b.Show();
         }
     }

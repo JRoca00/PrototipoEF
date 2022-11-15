@@ -165,7 +165,7 @@ namespace VistaLogistica
 
         private void btnMuestreo_Click(object sender, EventArgs e)
         {
-            Movimientos b = new Movimientos();
+            ReporteFcatura b = new ReporteFcatura();
             b.MdiParent = this;
             b.Show();
             hideSubMenu();

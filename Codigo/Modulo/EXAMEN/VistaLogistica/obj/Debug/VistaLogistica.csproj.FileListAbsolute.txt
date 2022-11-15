@@ -167,3 +167,5 @@ C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\obj\Debug\VistaLogistica.Clientes.resources
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\obj\Debug\VistaLogistica.InventarioIngreso.resources
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\obj\Debug\VistaLogistica.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\obj\Debug\VistaLogistica.Factura.resources
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Modulo\EXAMEN\VistaLogistica\obj\Debug\VistaLogistica.ReporteFcatura.resources

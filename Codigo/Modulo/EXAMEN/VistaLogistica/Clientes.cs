@@ -31,10 +31,10 @@ namespace VistaLogistica
         {
             NavegadorVista.Navegador.idApp = "6001";
             TextBox[] Grupotextbox = { txtBuscar, TxtCodigoRef, TxtDesc, textBox2, textBox1 };
-            TextBox[] Idtextbox = { txtBuscar, TxtCodigoRef };
+            //TextBox[] Idtextbox = { txtBuscar, TxtCodigoRef };
             navegador1.textbox = Grupotextbox;
             navegador1.tabla = dtgProducto;
-            navegador1.textboxi = Idtextbox;
+            //navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
             navegador1.cargar(dtgProducto, Grupotextbox, "ExamenFinal");
         }

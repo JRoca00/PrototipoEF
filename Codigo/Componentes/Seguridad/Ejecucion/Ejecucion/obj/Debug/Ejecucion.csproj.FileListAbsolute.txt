@@ -146,3 +146,7 @@ C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecuci
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe.config
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ControladorLogistica.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ModeloLogistica.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ControladorLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ModeloLogistica.pdb

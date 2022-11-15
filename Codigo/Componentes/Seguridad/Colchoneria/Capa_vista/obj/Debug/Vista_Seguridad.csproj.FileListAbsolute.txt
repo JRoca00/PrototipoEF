@@ -198,3 +198,7 @@ C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchon
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.dll
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.pdb
 C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\VistaLogistica.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.pdb

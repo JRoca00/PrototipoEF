@@ -83,6 +83,12 @@
     <Compile Include="Factura.Designer.cs">
       <DependentUpon>Factura.cs</DependentUpon>
     </Compile>
+    <Compile Include="facturarespoeador.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>facturarespoeador.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Inventario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,6 +137,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="ReporteFcatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteFcatura.Designer.cs">
+      <DependentUpon>ReporteFcatura.cs</DependentUpon>
+    </Compile>
     <Compile Include="ReporteriaMovimientos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -145,6 +157,13 @@
     <EmbeddedResource Include="CrystalReport1.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturarespoeador.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>facturarespoeador.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Inventario.resx">
       <DependentUpon>Inventario.cs</DependentUpon>
@@ -172,6 +191,9 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteFcatura.resx">
+      <DependentUpon>ReporteFcatura.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReporteriaMovimientos.resx">
       <DependentUpon>ReporteriaMovimientos.cs</DependentUpon>

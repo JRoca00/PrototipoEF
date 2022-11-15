@@ -90,7 +90,7 @@ namespace ControladorLogistica
             tabla.DataSource = table;
         }*/
 
-
+        
 
 
     }
