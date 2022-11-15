@@ -431,7 +431,7 @@ namespace VistaLogistica
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Menu";
+            this.Text = "Jorge Marroquin 0901-19-676";
             this.Load += new System.EventHandler(this.Menu_Load_1);
             this.panelSideMenu.ResumeLayout(false);
             this.panelayuda.ResumeLayout(false);
