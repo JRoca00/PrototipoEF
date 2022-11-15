@@ -1,0 +1,15 @@
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\marro\OneDrive\Desktop\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
