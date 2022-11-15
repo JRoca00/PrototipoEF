@@ -66,7 +66,7 @@ namespace VistaLogistica
             // panelSideMenu
             // 
             this.panelSideMenu.AutoScroll = true;
-            this.panelSideMenu.BackColor = System.Drawing.Color.Goldenrod;
+            this.panelSideMenu.BackColor = System.Drawing.Color.SlateBlue;
             this.panelSideMenu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.panelSideMenu.Controls.Add(this.btnSalida);
             this.panelSideMenu.Controls.Add(this.panelayuda);
@@ -82,14 +82,14 @@ namespace VistaLogistica
             this.panelSideMenu.Controls.Add(this.panelLogo);
             this.panelSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelSideMenu.Location = new System.Drawing.Point(0, 0);
-            this.panelSideMenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelSideMenu.Margin = new System.Windows.Forms.Padding(4);
             this.panelSideMenu.Name = "panelSideMenu";
-            this.panelSideMenu.Size = new System.Drawing.Size(275, 730);
+            this.panelSideMenu.Size = new System.Drawing.Size(275, 595);
             this.panelSideMenu.TabIndex = 42;
             // 
             // btnSalida
             // 
-            this.btnSalida.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnSalida.BackColor = System.Drawing.Color.SlateBlue;
             this.btnSalida.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnSalida.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnSalida.FlatAppearance.BorderSize = 0;
@@ -97,7 +97,7 @@ namespace VistaLogistica
             this.btnSalida.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalida.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnSalida.Location = new System.Drawing.Point(0, 713);
-            this.btnSalida.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSalida.Margin = new System.Windows.Forms.Padding(4);
             this.btnSalida.Name = "btnSalida";
             this.btnSalida.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnSalida.Size = new System.Drawing.Size(254, 48);
@@ -109,35 +109,36 @@ namespace VistaLogistica
             // 
             // panelayuda
             // 
-            this.panelayuda.BackColor = System.Drawing.Color.Khaki;
+            this.panelayuda.BackColor = System.Drawing.Color.LightSteelBlue;
             this.panelayuda.Controls.Add(this.btrayuda);
             this.panelayuda.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelayuda.Location = new System.Drawing.Point(0, 663);
-            this.panelayuda.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelayuda.Margin = new System.Windows.Forms.Padding(4);
             this.panelayuda.Name = "panelayuda";
             this.panelayuda.Size = new System.Drawing.Size(254, 50);
             this.panelayuda.TabIndex = 11;
             // 
             // btrayuda
             // 
+            this.btrayuda.BackColor = System.Drawing.Color.LightSteelBlue;
             this.btrayuda.Dock = System.Windows.Forms.DockStyle.Top;
             this.btrayuda.FlatAppearance.BorderSize = 0;
             this.btrayuda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btrayuda.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btrayuda.Location = new System.Drawing.Point(0, 0);
-            this.btrayuda.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btrayuda.Margin = new System.Windows.Forms.Padding(4);
             this.btrayuda.Name = "btrayuda";
             this.btrayuda.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btrayuda.Size = new System.Drawing.Size(254, 43);
             this.btrayuda.TabIndex = 0;
             this.btrayuda.Text = "CAMBIO CONTRASEÑA";
             this.btrayuda.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btrayuda.UseVisualStyleBackColor = true;
+            this.btrayuda.UseVisualStyleBackColor = false;
             this.btrayuda.Click += new System.EventHandler(this.btrayuda_Click);
             // 
             // btnayu
             // 
-            this.btnayu.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnayu.BackColor = System.Drawing.Color.SlateBlue;
             this.btnayu.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnayu.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnayu.FlatAppearance.BorderSize = 0;
@@ -145,7 +146,7 @@ namespace VistaLogistica
             this.btnayu.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnayu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnayu.Location = new System.Drawing.Point(0, 615);
-            this.btnayu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnayu.Margin = new System.Windows.Forms.Padding(4);
             this.btnayu.Name = "btnayu";
             this.btnayu.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnayu.Size = new System.Drawing.Size(254, 48);
@@ -157,11 +158,11 @@ namespace VistaLogistica
             // 
             // panelseguridad
             // 
-            this.panelseguridad.BackColor = System.Drawing.Color.Khaki;
+            this.panelseguridad.BackColor = System.Drawing.Color.LightSteelBlue;
             this.panelseguridad.Controls.Add(this.btseguridadsegundo);
             this.panelseguridad.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelseguridad.Location = new System.Drawing.Point(0, 561);
-            this.panelseguridad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelseguridad.Margin = new System.Windows.Forms.Padding(4);
             this.panelseguridad.Name = "panelseguridad";
             this.panelseguridad.Size = new System.Drawing.Size(254, 54);
             this.panelseguridad.TabIndex = 9;
@@ -173,7 +174,7 @@ namespace VistaLogistica
             this.btseguridadsegundo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btseguridadsegundo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btseguridadsegundo.Location = new System.Drawing.Point(0, 0);
-            this.btseguridadsegundo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btseguridadsegundo.Margin = new System.Windows.Forms.Padding(4);
             this.btseguridadsegundo.Name = "btseguridadsegundo";
             this.btseguridadsegundo.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btseguridadsegundo.Size = new System.Drawing.Size(254, 46);
@@ -185,7 +186,7 @@ namespace VistaLogistica
             // 
             // btnseguridad
             // 
-            this.btnseguridad.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnseguridad.BackColor = System.Drawing.Color.SlateBlue;
             this.btnseguridad.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnseguridad.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnseguridad.FlatAppearance.BorderSize = 0;
@@ -193,7 +194,7 @@ namespace VistaLogistica
             this.btnseguridad.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnseguridad.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnseguridad.Location = new System.Drawing.Point(0, 513);
-            this.btnseguridad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnseguridad.Margin = new System.Windows.Forms.Padding(4);
             this.btnseguridad.Name = "btnseguridad";
             this.btnseguridad.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnseguridad.Size = new System.Drawing.Size(254, 48);
@@ -205,11 +206,11 @@ namespace VistaLogistica
             // 
             // PanelAuditoria
             // 
-            this.PanelAuditoria.BackColor = System.Drawing.Color.Khaki;
+            this.PanelAuditoria.BackColor = System.Drawing.Color.LightSteelBlue;
             this.PanelAuditoria.Controls.Add(this.btnMovimientos);
             this.PanelAuditoria.Dock = System.Windows.Forms.DockStyle.Top;
             this.PanelAuditoria.Location = new System.Drawing.Point(0, 447);
-            this.PanelAuditoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.PanelAuditoria.Margin = new System.Windows.Forms.Padding(4);
             this.PanelAuditoria.Name = "PanelAuditoria";
             this.PanelAuditoria.Size = new System.Drawing.Size(254, 66);
             this.PanelAuditoria.TabIndex = 5;
@@ -221,7 +222,7 @@ namespace VistaLogistica
             this.btnMovimientos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMovimientos.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btnMovimientos.Location = new System.Drawing.Point(0, 0);
-            this.btnMovimientos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMovimientos.Margin = new System.Windows.Forms.Padding(4);
             this.btnMovimientos.Name = "btnMovimientos";
             this.btnMovimientos.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnMovimientos.Size = new System.Drawing.Size(254, 43);
@@ -233,7 +234,7 @@ namespace VistaLogistica
             // 
             // btnAuditoria
             // 
-            this.btnAuditoria.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnAuditoria.BackColor = System.Drawing.Color.SlateBlue;
             this.btnAuditoria.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnAuditoria.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnAuditoria.FlatAppearance.BorderSize = 0;
@@ -241,7 +242,7 @@ namespace VistaLogistica
             this.btnAuditoria.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAuditoria.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnAuditoria.Location = new System.Drawing.Point(0, 399);
-            this.btnAuditoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAuditoria.Margin = new System.Windows.Forms.Padding(4);
             this.btnAuditoria.Name = "btnAuditoria";
             this.btnAuditoria.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnAuditoria.Size = new System.Drawing.Size(254, 48);
@@ -253,11 +254,11 @@ namespace VistaLogistica
             // 
             // panelTranportes
             // 
-            this.panelTranportes.BackColor = System.Drawing.Color.Khaki;
+            this.panelTranportes.BackColor = System.Drawing.Color.LightSteelBlue;
             this.panelTranportes.Controls.Add(this.btnExistenciaBodegas);
             this.panelTranportes.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTranportes.Location = new System.Drawing.Point(0, 347);
-            this.panelTranportes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelTranportes.Margin = new System.Windows.Forms.Padding(4);
             this.panelTranportes.Name = "panelTranportes";
             this.panelTranportes.Size = new System.Drawing.Size(254, 52);
             this.panelTranportes.TabIndex = 3;
@@ -269,7 +270,7 @@ namespace VistaLogistica
             this.btnExistenciaBodegas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExistenciaBodegas.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btnExistenciaBodegas.Location = new System.Drawing.Point(0, 0);
-            this.btnExistenciaBodegas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnExistenciaBodegas.Margin = new System.Windows.Forms.Padding(4);
             this.btnExistenciaBodegas.Name = "btnExistenciaBodegas";
             this.btnExistenciaBodegas.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnExistenciaBodegas.Size = new System.Drawing.Size(254, 43);
@@ -281,7 +282,7 @@ namespace VistaLogistica
             // 
             // btnTransporte
             // 
-            this.btnTransporte.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnTransporte.BackColor = System.Drawing.Color.SlateBlue;
             this.btnTransporte.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnTransporte.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnTransporte.FlatAppearance.BorderSize = 0;
@@ -289,7 +290,7 @@ namespace VistaLogistica
             this.btnTransporte.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTransporte.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnTransporte.Location = new System.Drawing.Point(0, 299);
-            this.btnTransporte.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTransporte.Margin = new System.Windows.Forms.Padding(4);
             this.btnTransporte.Name = "btnTransporte";
             this.btnTransporte.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnTransporte.Size = new System.Drawing.Size(254, 48);
@@ -301,13 +302,13 @@ namespace VistaLogistica
             // 
             // paninvent
             // 
-            this.paninvent.BackColor = System.Drawing.Color.Khaki;
+            this.paninvent.BackColor = System.Drawing.Color.LightSteelBlue;
             this.paninvent.Controls.Add(this.btnBodegas);
             this.paninvent.Controls.Add(this.btnLinea);
             this.paninvent.Controls.Add(this.btnMarca);
             this.paninvent.Dock = System.Windows.Forms.DockStyle.Top;
             this.paninvent.Location = new System.Drawing.Point(0, 155);
-            this.paninvent.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.paninvent.Margin = new System.Windows.Forms.Padding(4);
             this.paninvent.Name = "paninvent";
             this.paninvent.Size = new System.Drawing.Size(254, 144);
             this.paninvent.TabIndex = 1;
@@ -319,7 +320,7 @@ namespace VistaLogistica
             this.btnBodegas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBodegas.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btnBodegas.Location = new System.Drawing.Point(0, 86);
-            this.btnBodegas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnBodegas.Margin = new System.Windows.Forms.Padding(4);
             this.btnBodegas.Name = "btnBodegas";
             this.btnBodegas.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnBodegas.Size = new System.Drawing.Size(254, 43);
@@ -336,7 +337,7 @@ namespace VistaLogistica
             this.btnLinea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLinea.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btnLinea.Location = new System.Drawing.Point(0, 43);
-            this.btnLinea.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLinea.Margin = new System.Windows.Forms.Padding(4);
             this.btnLinea.Name = "btnLinea";
             this.btnLinea.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnLinea.Size = new System.Drawing.Size(254, 43);
@@ -348,13 +349,13 @@ namespace VistaLogistica
             // 
             // btnMarca
             // 
-            this.btnMarca.BackColor = System.Drawing.Color.Khaki;
+            this.btnMarca.BackColor = System.Drawing.Color.LightSteelBlue;
             this.btnMarca.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnMarca.FlatAppearance.BorderSize = 0;
             this.btnMarca.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMarca.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.btnMarca.Location = new System.Drawing.Point(0, 0);
-            this.btnMarca.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMarca.Margin = new System.Windows.Forms.Padding(4);
             this.btnMarca.Name = "btnMarca";
             this.btnMarca.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnMarca.Size = new System.Drawing.Size(254, 43);
@@ -366,7 +367,7 @@ namespace VistaLogistica
             // 
             // btnInventarios
             // 
-            this.btnInventarios.BackColor = System.Drawing.Color.Goldenrod;
+            this.btnInventarios.BackColor = System.Drawing.Color.SlateBlue;
             this.btnInventarios.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnInventarios.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnInventarios.FlatAppearance.BorderSize = 0;
@@ -374,7 +375,7 @@ namespace VistaLogistica
             this.btnInventarios.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInventarios.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.btnInventarios.Location = new System.Drawing.Point(0, 107);
-            this.btnInventarios.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnInventarios.Margin = new System.Windows.Forms.Padding(4);
             this.btnInventarios.Name = "btnInventarios";
             this.btnInventarios.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnInventarios.Size = new System.Drawing.Size(254, 48);
@@ -389,17 +390,17 @@ namespace VistaLogistica
             this.panelLogo.Controls.Add(this.pictureBox1);
             this.panelLogo.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelLogo.Location = new System.Drawing.Point(0, 0);
-            this.panelLogo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelLogo.Margin = new System.Windows.Forms.Padding(4);
             this.panelLogo.Name = "panelLogo";
             this.panelLogo.Size = new System.Drawing.Size(254, 107);
             this.panelLogo.TabIndex = 0;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Goldenrod;
+            this.pictureBox1.BackColor = System.Drawing.Color.SlateBlue;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(254, 107);
             this.pictureBox1.TabIndex = 7;
@@ -414,7 +415,7 @@ namespace VistaLogistica
             this.pictureBox2.Location = new System.Drawing.Point(273, 0);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(913, 727);
+            this.pictureBox2.Size = new System.Drawing.Size(800, 592);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 45;
             this.pictureBox2.TabStop = false;
@@ -423,11 +424,11 @@ namespace VistaLogistica
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1197, 730);
+            this.ClientSize = new System.Drawing.Size(1084, 595);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.panelSideMenu);
             this.IsMdiContainer = true;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
