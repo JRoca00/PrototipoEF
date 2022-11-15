@@ -1,0 +1,10 @@
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb
